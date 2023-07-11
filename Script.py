@@ -29,15 +29,15 @@ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴩ Nᴏᴡ 👇</b>"""
 📢 sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ : <a href=https://t.me/rqsturmovie>𝗰𝗹𝗶𝗰𝗸 𝗵𝗲𝗿𝗲</a>
 🌟 Sᴏᴜʀᴄᴇ Cᴏᴅᴇ : <a href=𝗽𝗿𝗶𝘃𝗮𝘁𝗲>𝗽𝗿𝗶𝘃𝗮𝘁𝗲</a></b>"""
 
-    SOURCES_TXT = """Tʜɪs Is Aɴ Oᴩᴇɴ-Sᴏᴜʀᴄᴇ Pʀᴏᴊᴇᴄᴛ Bʏ @memes_mithun
+    SOURCES_TXT = """Tʜɪs Is Aɴ Oᴩᴇɴ-Sᴏᴜʀᴄᴇ Pʀᴏᴊᴇᴄᴛ Bʏ @Itz_me_444
 
-- 100﹪ Cᴏᴅᴇᴅ Bʏ <a href=https://t.me/Itz_me_444>rolex</a>
+- 100﹪ Cᴏᴅᴇᴅ Bʏ <a href=https://t.me/mr_rolex12>rolex</a>
 
 - & Rᴇᴩᴏ Lɪɴᴋ 👇 Hᴇʀᴇ"""
 
     SOURCE_TXT = """Tʜɪs Is Aɴ private-Sᴏᴜʀᴄᴇ Pʀᴏᴊᴇᴄᴛ Bʏ @Itz_me_444</b>
 
-- 100﹪ Cᴏᴅᴇᴅ Bʏ <a href=https://t.me/Itz_me_444>rolex</a></b>
+- 100﹪ Cᴏᴅᴇᴅ Bʏ <a href=https://t.me/mr_rolex12>rolex</a></b>
 
 - Rᴇᴩᴏ Lɪɴᴋ 👇 Hᴇʀᴇ"""
 
