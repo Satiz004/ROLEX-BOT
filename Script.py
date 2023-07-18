@@ -25,8 +25,8 @@ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴩ Nᴏᴡ 👇</b>"""
 👨‍💻 ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href=https://t.me/Itz_me_444>Rolex</a>
 📝 ʟᴀɴɢᴜᴀɢᴇ : ᴘʏʀᴏɢʀᴀᴍ
 📚 ꜰʀᴀᴍᴇᴡᴏʀᴋ : ᴘʏᴛʜᴏɴ 3
-📡 ʜᴏsᴛᴇᴅ ᴏɴ : 𝘃𝗽𝘀
-📢 sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ : <a href=https://t.me/rqsturmovie>𝗰𝗹𝗶𝗰𝗸 𝗵𝗲𝗿𝗲</a>
+📡 ʜᴏsᴛᴇᴅ ᴏɴ : Heroku
+📢 sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ : <a href=https://t.me/movies_areaz>𝗰𝗹𝗶𝗰𝗸 𝗵𝗲𝗿𝗲</a>
 🌟 Sᴏᴜʀᴄᴇ Cᴏᴅᴇ : <a href=𝗽𝗿𝗶𝘃𝗮𝘁𝗲>𝗽𝗿𝗶𝘃𝗮𝘁𝗲</a></b>"""
 
     SOURCES_TXT = """Tʜɪs Is Aɴ Oᴩᴇɴ-Sᴏᴜʀᴄᴇ Pʀᴏᴊᴇᴄᴛ Bʏ @Itz_me_444
