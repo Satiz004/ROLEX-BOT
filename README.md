@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Wᴇʟᴄᴏᴍᴇ+Tᴏ+Pʀᴇᴍɪᴜᴍ+Fɪʟᴛᴇʀ+Bᴏᴛ+Rᴇᴘᴏ+!!!!!;Cʀᴇᴀᴛᴇᴅ+Bʏ+TᴀᴍɪʟᴀɴBᴏᴛsZ+Tᴇᴀᴍ+!!!!!;Mᴀᴅᴇ+Wɪᴛʜ+Tᴀᴍɪʟᴀɴ+Lᴏᴠᴇ+♥️+!!!!)</p>
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Wᴇʟᴄᴏᴍᴇ+Tᴏ+Pʀᴇᴍɪᴜᴍ+Fɪʟᴛᴇʀ+Bᴏᴛ+Rᴇᴘᴏ+!!!!!;Cʀᴇᴀᴛᴇᴅ+Bʏ+Rolex+Tᴇᴀᴍ+!!!!!;Mᴀᴅᴇ+With+Lᴏᴠᴇ+♥️+!!!!)</p>
 <p align="center">
   <img src="https://graph.org/file/b9e1c83a5d574e79a73c8.jpg" alt="Awesome Filter Logo">
   </p>
@@ -6,7 +6,7 @@
     <b>Pʀᴇᴍɪᴜᴍ Fɪʟᴛᴇʀ Rᴇᴩᴏ</b>
     </h1>
 
-# 👩‍💻 Cᴏᴅᴇᴅᴇᴅ Bʏ TᴀᴍɪʟᴀɴBᴏᴛsZ
+# 👩‍💻 Cᴏᴅᴇᴅᴇᴅ Bʏ Rolex
 
 🌟 <b>Fᴏʀᴋ & Sᴛᴀʀ Nᴏᴡ</b> 💥
 
@@ -152,7 +152,7 @@ link - 🖇️ ʟɪɴᴋ ᴛᴏ ᴘᴏsᴛ (ᴀᴅᴍɪɴ ᴏɴʟʏ)
 ```
 
 ## Cʀᴇᴅɪᴛs
-Rᴇᴘᴏ Oᴡɴᴇʀ/Cʀᴇᴀᴛᴏʀ *[![TᴀᴍɪʟᴀɴBᴏᴛsZ-Mᴇ](https://img.shields.io/static/v1?label=TamilanBotsZ&message=devs&color=critical)](https://telegram.dog/Tamilan_BotsZ)
+Rᴇᴘᴏ Oᴡɴᴇʀ/Cʀᴇᴀᴛᴏʀ *[![Rolex-Mᴇ](https://img.shields.io/static/v1?label=TamilanBotsZ&message=devs&color=critical)](https://telegram.dog/Tamilan_BotsZ)
 
 ## Tʜᴀɴᴋs Tᴏ 
  <b>- Tʜᴀɴᴋs Tᴏ Mᴇ 🤩
@@ -165,6 +165,4 @@ Rᴇᴘᴏ Oᴡɴᴇʀ/Cʀᴇᴀᴛᴏʀ *[![TᴀᴍɪʟᴀɴBᴏᴛsZ-Mᴇ](htt
 
 - Pʟᴇᴀsᴇ Dᴏɴ'ᴛ Cʜᴀɴɢᴇ "Uᴘᴅᴀᴛᴇs" Bᴜᴛᴛᴏɴ Lɪɴᴋ
 
-- Iғ Yᴏᴜ Lɪᴋᴇ Tʜᴇ Rᴇᴩᴏ Mᴇᴀɴs Gɪᴠᴇ Sᴛᴀʀᴛ
-
-- Mʏ 3ᴍᴏɴᴛʜ ᴏғ HᴀʀᴅWᴏʀᴋ </b>
+- Iғ Yᴏᴜ Lɪᴋᴇ Tʜᴇ Rᴇᴩᴏ Mᴇᴀɴs Gɪᴠᴇ Sᴛᴀʀᴛ </b>
