@@ -69,7 +69,7 @@ AUTO_DELETE_SECONDS = int(environ.get('AUTO_DELETE_SECONDS', 300))
 
 FILE_REQ_CHANNEL = int(environ.get('FILE_REQ_CHANNEL', LOG_CHANNEL))
 
-SHORTNER_SITE =  environ.get('SHORTNER_SITE', 'indianshortner.com') #Put Only Shortner Site domain don't put like this https://tnlink.in/
+SHORTNER_SITE =  environ.get('SHORTNER_SITE', 'indianshortner.in') #Put Only Shortner Site domain don't put like this https://tnlink.in/
 
 SHORTNER_API =  environ.get('SHORTNER_API', 'ecbcea6067bba928beed9eb37323cfea33c06b2a')
 
